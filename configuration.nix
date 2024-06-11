@@ -101,13 +101,18 @@
     bluez
     python3
     jetbrains.pycharm-community
-    poetry
     git
     brave
     gnomeExtensions.dash-to-dock
     ntfs3g
     logseq
+    pipenv
+    vscode
+    ollama
+    gcc
   ];
+
+
 
   # Some programs need SUID wrappers, can be configured further or are
   # started in user sessions.
